@@ -1,3 +1,2 @@
 # chesspuzzle
-Final project for ENGN 1931Z. 
-In addition to these files you will also want to download an engine (I recommend Stockfish from stockfishchess.org) and a driver for your favorite browser.  You will also have to edit the file paths specified in the chesspuzzles.py file.  
+In addition to these files you will also want to download an engine (I recommend Stockfish from stockfishchess.org) and a driver for your favorite browser (note that if you want to use chrome I would recommend using the 2.2.4 version of the driver as I could not get the 2.2.5 version to work with selenium).  You will also have to edit the file paths specified in the chesspuzzles.py file.  
